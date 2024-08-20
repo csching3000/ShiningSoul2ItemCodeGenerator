@@ -1,0 +1,10 @@
+C:\Users\Cindy\source\repos\ShiningSoul2_CodeGenerator\ShiningSoul2_CodeGenerator\bin\Debug\ShiningSoul2_CodeGenerator.exe.config
+C:\Users\Cindy\source\repos\ShiningSoul2_CodeGenerator\ShiningSoul2_CodeGenerator\bin\Debug\ShiningSoul2_CodeGenerator.exe
+C:\Users\Cindy\source\repos\ShiningSoul2_CodeGenerator\ShiningSoul2_CodeGenerator\bin\Debug\ShiningSoul2_CodeGenerator.pdb
+C:\Users\Cindy\source\repos\ShiningSoul2_CodeGenerator\ShiningSoul2_CodeGenerator\obj\Debug\ShiningSoul2_CodeGenerator.csproj.AssemblyReference.cache
+C:\Users\Cindy\source\repos\ShiningSoul2_CodeGenerator\ShiningSoul2_CodeGenerator\obj\Debug\ShiningSoul2_CodeGenerator.codeGenerator.resources
+C:\Users\Cindy\source\repos\ShiningSoul2_CodeGenerator\ShiningSoul2_CodeGenerator\obj\Debug\ShiningSoul2_CodeGenerator.Properties.Resources.resources
+C:\Users\Cindy\source\repos\ShiningSoul2_CodeGenerator\ShiningSoul2_CodeGenerator\obj\Debug\ShiningSoul2_CodeGenerator.csproj.GenerateResource.cache
+C:\Users\Cindy\source\repos\ShiningSoul2_CodeGenerator\ShiningSoul2_CodeGenerator\obj\Debug\ShiningSoul2_CodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Cindy\source\repos\ShiningSoul2_CodeGenerator\ShiningSoul2_CodeGenerator\obj\Debug\ShiningSoul2_CodeGenerator.exe
+C:\Users\Cindy\source\repos\ShiningSoul2_CodeGenerator\ShiningSoul2_CodeGenerator\obj\Debug\ShiningSoul2_CodeGenerator.pdb
